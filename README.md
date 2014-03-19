@@ -18,7 +18,7 @@ Attribution
 	1. General help from the forums
 	2. Stdlib.js to traverse layers
 
-* [Trevor Morris](www.morris-photographics.com)
+* [Trevor Morris](http://www.morris-photographics.com)
 	1. Array generator
 	2. Distribute Layer Spacing Horizontal
 	3. Distribute Layer Spacing Vertical
