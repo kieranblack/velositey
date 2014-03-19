@@ -14,7 +14,7 @@ Attribution
 	1. Remove unused layer effects
 	2. Delete empty layers
 
-* [xbytor2](www.ps-scripts.com):
+* [xbytor2](http://www.ps-scripts.com):
 	1. General help from the forums
 	2. Stdlib.js to traverse layers
 
