@@ -7,7 +7,7 @@ Photoshop panel containing scripts (.jsx) to quickly create websites.
 Attribution
 ----------
 * kieranpblack - Development
-* HYPD - UI & .PSD Assets
+* [HYPD](http://danross.com.au/) - UI & .PSD Assets
 
 **Special thanks to these guys:**
 * [Paul Riggott](http://www.ps-bridge-scripts.talktalk.net/):
