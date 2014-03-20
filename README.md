@@ -3,6 +3,8 @@ Velositey
 
 Photoshop panel containing scripts (.jsx) to quickly create websites.
 
+Download the latest version: https://github.com/kieranpblack/velositey/releases
+
 Installation
 ----------
 1. Place 'Velositey' folder in 'Adobe Photoshop CC/Plug-ins/Panels'
