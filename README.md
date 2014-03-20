@@ -21,4 +21,7 @@ Attribution
 * [Trevor Morris](http://www.morris-photographics.com)
 	1. Array generator
 	2. Distribute Layer Spacing Horizontal
-	3. Distribute Layer Spacing Vertical 
+	3. Distribute Layer Spacing Vertical
+
+* [WebIconSet.com](http://www.webiconset.com)
+	1. Map Icons
