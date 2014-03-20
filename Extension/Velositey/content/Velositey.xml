@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpc defaultLocale="en_US" version="4" keySequence="322" currentLocale="en_US">
+  <product appid="PHSP" version="14" name="Photoshop CC"/>
+  <target id="PHSP-14"/>
+  <ConfiguratorPanel name="Velositey" width="248" height="575" init="doInit" close="doClose" persistent="true" extensionId="Velositey" extensionVersion="1.0.0" menuName="Velositey" flyoutMenuAbout="$$$/Configurator/FlyoutMenu/about" minWidth="248" minHeight="575" maxWidth="248" maxHeight="575">
+    <onInit><![CDATA[]]></onInit>
+    <aboutBox><![CDATA[]]></aboutBox>
+    <extensionDescription><![CDATA[Photoshop panel containing scripts (.jsx) to quickly create websites.]]></extensionDescription>
+    <extensionAuthor><![CDATA[D&K]]></extensionAuthor>
+    <onClose><![CDATA[]]></onClose>
+    <eventListeners>
+      <function id="doInit" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onInit"/>
+      </function>
+      <function id="doClose" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onClose"/>
+      </function>
+    </eventListeners>
+    <tabnavigator _itemId="container_tabnavigator" toolTip="$$$/Configurator/Container/TabNavigator/desc" label="$$$/Configurator/key_###15" width="247" height="575" cfgVisible="$$$/Configurator/Attribute/visible/value###16" x="0" y="0">
+      <canvas _itemId="container_canvas" label="$$$/Configurator/TabNavigator/Canvas###17" width="245" height="545" toolTip="$$$/Configurator/Container/Canvas/desc" cfgVisible="$$$/Configurator/Attribute/visible/value###18">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###1" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###2" cfgVisible="$$$/Configurator/Attribute/visible/value###3" fileUrl="$$$/Configurator/key_###4" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="10" mouseUpIcon="Images/nt1-u.png" mouseOverIcon="Images/nt1-o.png" mouseDownSkinIcon="Images/nt1-d.png" width="226" height="46"/>
+        <accordion _itemId="container_accordion" toolTip="$$$/Configurator/Container/Accordion/desc" label="$$$/Configurator/key_###21" width="241" height="480" cfgVisible="$$$/Configurator/Attribute/visible/value###22" x="2" y="65">
+          <canvas _itemId="container_canvas" label="$$$/Configurator/Accordion/Canvas###23" width="100%" height="100%" toolTip="$$$/Configurator/Container/Canvas/desc" cfgVisible="$$$/Configurator/Attribute/visible/value###24">
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###274" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###275" cfgVisible="$$$/Configurator/Attribute/visible/value###276" fileUrl="$$$/Configurator/key_###277" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="6" y="64" width="109" height="46" mouseUpIcon="Images/lh3-u.png" mouseOverIcon="Images/lh3-o.png" mouseDownSkinIcon="Images/lh3-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###278" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###279" cfgVisible="$$$/Configurator/Attribute/visible/value###280" fileUrl="$$$/Configurator/key_###281" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="123" y="64" width="109" height="46" mouseUpIcon="Images/lh4-u.png" mouseOverIcon="Images/lh4-o.png" mouseDownSkinIcon="Images/lh4-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###266" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###267" cfgVisible="$$$/Configurator/Attribute/visible/value###268" fileUrl="$$$/Configurator/key_###269" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="6" y="10" width="109" height="46" mouseUpIcon="Images/lh1-u.png" mouseOverIcon="Images/lh1-o.png" mouseDownSkinIcon="Images/lh1-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###270" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###271" cfgVisible="$$$/Configurator/Attribute/visible/value###272" fileUrl="$$$/Configurator/key_###273" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="123" y="10" width="109" height="46" mouseUpIcon="Images/lh2-u.png" mouseOverIcon="Images/lh2-o.png" mouseDownSkinIcon="Images/lh2-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###282" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###283" cfgVisible="$$$/Configurator/Attribute/visible/value###284" fileUrl="$$$/Configurator/key_###285" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="6" y="118" width="109" height="46" mouseUpIcon="Images/lh5-u.png" mouseOverIcon="Images/lh5-o.png" mouseDownSkinIcon="Images/lh5-d.png"/>
+          </canvas>
+          <canvas _itemId="container_canvas" toolTip="$$$/Configurator/Container/Canvas/desc" label="$$$/Configurator/key_###25" width="100%" height="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###26">
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###286" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###287" cfgVisible="$$$/Configurator/Attribute/visible/value###288" fileUrl="$$$/Configurator/key_###289" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="6" y="10" width="109" height="46" mouseUpIcon="Images/ls1-u.png" mouseOverIcon="Images/ls1-o.png" mouseDownSkinIcon="Images/ls1-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###298" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###299" cfgVisible="$$$/Configurator/Attribute/visible/value###300" fileUrl="$$$/Configurator/key_###301" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="124" y="64" width="109" height="46" mouseUpIcon="Images/ls4-u.png" mouseOverIcon="Images/ls4-o.png" mouseDownSkinIcon="Images/ls4-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###290" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###291" cfgVisible="$$$/Configurator/Attribute/visible/value###292" fileUrl="$$$/Configurator/key_###293" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="123" y="10" width="109" height="46" mouseUpIcon="Images/ls2-u.png" mouseOverIcon="Images/ls2-o.png" mouseDownSkinIcon="Images/ls2-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###294" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###295" cfgVisible="$$$/Configurator/Attribute/visible/value###296" fileUrl="$$$/Configurator/key_###297" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="7" y="64" width="109" height="46" mouseUpIcon="Images/ls3-u.png" mouseOverIcon="Images/ls3-o.png" mouseDownSkinIcon="Images/ls3-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###302" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###303" cfgVisible="$$$/Configurator/Attribute/visible/value###304" fileUrl="$$$/Configurator/key_###305" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="7" y="118" width="109" height="46" mouseUpIcon="Images/ls5-u.png" mouseOverIcon="Images/ls5-o.png" mouseDownSkinIcon="Images/ls5-d.png"/>
+          </canvas>
+          <canvas _itemId="container_canvas" toolTip="$$$/Configurator/Container/Canvas/desc" label="$$$/Configurator/key_###27" width="100%" height="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###28">
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###306" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###307" cfgVisible="$$$/Configurator/Attribute/visible/value###308" fileUrl="$$$/Configurator/key_###309" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="10" width="109" height="46" mouseUpIcon="Images/lc1-u.png" mouseOverIcon="Images/lc1-o.png" mouseDownSkinIcon="Images/lc1-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###310" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###311" cfgVisible="$$$/Configurator/Attribute/visible/value###312" fileUrl="$$$/Configurator/key_###313" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="123" y="10" width="109" height="46" mouseUpIcon="Images/lc2-u.png" mouseOverIcon="Images/lc2-o.png" mouseDownSkinIcon="Images/lc2-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###314" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###315" cfgVisible="$$$/Configurator/Attribute/visible/value###316" fileUrl="$$$/Configurator/key_###317" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="64" width="109" height="46" mouseUpIcon="Images/lc3-u.png" mouseOverIcon="Images/lc3-o.png" mouseDownSkinIcon="Images/lc3-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###318" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###319" cfgVisible="$$$/Configurator/Attribute/visible/value###320" fileUrl="$$$/Configurator/key_###321" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="123" y="64" width="109" height="46" mouseUpIcon="Images/lc4-u.png" mouseOverIcon="Images/lc4-o.png" mouseDownSkinIcon="Images/lc4-d.png"/>
+          </canvas>
+          <canvas _itemId="container_canvas" toolTip="$$$/Configurator/Container/Canvas/desc" label="$$$/Configurator/key_###29" width="100%" height="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###30">
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###326" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###327" cfgVisible="$$$/Configurator/Attribute/visible/value###328" fileUrl="$$$/Configurator/key_###329" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="10" width="109" height="46" mouseUpIcon="Images/lf1-u.png" mouseOverIcon="Images/lf1-o.png" mouseDownSkinIcon="Images/lf1-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###350" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###351" cfgVisible="$$$/Configurator/Attribute/visible/value###352" fileUrl="$$$/Configurator/key_###353" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="124" y="10" width="109" height="46" mouseUpIcon="Images/lf2-u.png" mouseOverIcon="Images/lf2-o.png" mouseDownSkinIcon="Images/lf2-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###330" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###331" cfgVisible="$$$/Configurator/Attribute/visible/value###332" fileUrl="$$$/Configurator/key_###333" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="64" width="109" height="46" mouseUpIcon="Images/lf3-u.png" mouseOverIcon="Images/lf3-o.png" mouseDownSkinIcon="Images/lf3-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###354" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###355" cfgVisible="$$$/Configurator/Attribute/visible/value###356" fileUrl="$$$/Configurator/key_###357" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="124" y="64" width="109" height="46" mouseUpIcon="Images/lf4-u.png" mouseOverIcon="Images/lf4-o.png" mouseDownSkinIcon="Images/lf4-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###334" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###335" cfgVisible="$$$/Configurator/Attribute/visible/value###336" fileUrl="$$$/Configurator/key_###337" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="118" width="109" height="46" mouseUpIcon="Images/lf5-u.png" mouseOverIcon="Images/lf5-o.png" mouseDownSkinIcon="Images/lf5-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###358" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###359" cfgVisible="$$$/Configurator/Attribute/visible/value###360" fileUrl="$$$/Configurator/key_###361" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="122" y="118" width="109" height="46" mouseUpIcon="Images/lf6-u.png" mouseOverIcon="Images/lf6-o.png" mouseDownSkinIcon="Images/lf6-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###338" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###339" cfgVisible="$$$/Configurator/Attribute/visible/value###340" fileUrl="$$$/Configurator/key_###341" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="172" width="109" height="46" mouseUpIcon="Images/lf7-u.png" mouseOverIcon="Images/lf7-o.png" mouseDownSkinIcon="Images/lf7-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###362" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###363" cfgVisible="$$$/Configurator/Attribute/visible/value###364" fileUrl="$$$/Configurator/key_###365" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="122" y="172" width="109" height="46" mouseUpIcon="Images/lf8-u.png" mouseOverIcon="Images/lf8-o.png" mouseDownSkinIcon="Images/lf8-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###342" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###343" cfgVisible="$$$/Configurator/Attribute/visible/value###344" fileUrl="$$$/Configurator/key_###345" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="226" width="109" height="46" mouseUpIcon="Images/lf9-u.png" mouseOverIcon="Images/lf9-o.png" mouseDownSkinIcon="Images/lf9-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###366" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###367" cfgVisible="$$$/Configurator/Attribute/visible/value###368" fileUrl="$$$/Configurator/key_###369" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="122" y="226" width="109" height="46" mouseUpIcon="Images/lf10-u.png" mouseOverIcon="Images/lf10-o.png" mouseDownSkinIcon="Images/lf10-d.png"/>
+            <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###346" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###347" cfgVisible="$$$/Configurator/Attribute/visible/value###348" fileUrl="$$$/Configurator/key_###349" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="280" width="109" height="46" mouseUpIcon="Images/lf11-u.png" mouseOverIcon="Images/lf11-o.png" mouseDownSkinIcon="Images/lf11-d.png"/>
+          </canvas>
+        </accordion>
+      </canvas>
+      <canvas _itemId="container_canvas" toolTip="$$$/Configurator/Container/Canvas/desc" label="$$$/Configurator/key_###19" width="245" height="555" cfgVisible="$$$/Configurator/Attribute/visible/value###20">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###136" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###137" cfgVisible="$$$/Configurator/Attribute/visible/value###138" fileUrl="$$$/Configurator/key_###139" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="35" width="70" height="46" mouseUpIcon="Images/sp1-u.png" mouseOverIcon="Images/sp1-o.png" mouseDownSkinIcon="Images/sp1-d.png"/>
+        <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc" styleName="scopeTextArea" width="146" height="20" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###134" fontSize="16" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="9" fontFamily="helvetica">
+          <text><![CDATA[$$$/Configurator/key_###135]]></text>
+        </text>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###140" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###141" cfgVisible="$$$/Configurator/Attribute/visible/value###142" fileUrl="$$$/Configurator/key_###143" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="88" y="35" width="70" height="46" mouseUpIcon="Images/sp2-u.png" mouseOverIcon="Images/sp2-o.png" mouseDownSkinIcon="Images/sp2-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###256" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###257" cfgVisible="$$$/Configurator/Attribute/visible/value###258" fileUrl="$$$/Configurator/key_###259" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="166" y="35" width="70" height="46" mouseUpIcon="Images/sp3-u.png" mouseOverIcon="Images/sp3-o.png" mouseDownSkinIcon="Images/sp3-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###178" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###179" cfgVisible="$$$/Configurator/Attribute/visible/value###180" fileUrl="$$$/Configurator/key_###181" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="88" y="287" width="70" height="46" mouseUpIcon="Images/dg1-u.png" mouseOverIcon="Images/dg1-o.png" mouseDownSkinIcon="Images/dg1-d.png"/>
+        <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###160" styleName="scopeTextArea" width="146" height="20" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###161" fontSize="16" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="99" fontFamily="helvetica">
+          <text><![CDATA[$$$/Configurator/key_###162]]></text>
+        </text>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###206" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###207" cfgVisible="$$$/Configurator/Attribute/visible/value###208" fileUrl="$$$/Configurator/key_###209" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" mouseUpIcon="Images/g1-u.png" mouseOverIcon="Images/g1-o.png" mouseDownSkinIcon="Images/g1-d.png" x="10" y="125" width="70" height="46"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###190" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###191" cfgVisible="$$$/Configurator/Attribute/visible/value###192" fileUrl="$$$/Configurator/key_###193" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="88" y="125" width="70" height="46" mouseUpIcon="Images/g2-u.png" mouseOverIcon="Images/g2-o.png" mouseDownSkinIcon="Images/g2-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###202" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###203" cfgVisible="$$$/Configurator/Attribute/visible/value###204" fileUrl="$$$/Configurator/key_###205" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="165" y="125" width="70" height="46" mouseUpIcon="Images/g3-u.png" mouseOverIcon="Images/g3-o.png" mouseDownSkinIcon="Images/g3-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###218" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###219" cfgVisible="$$$/Configurator/Attribute/visible/value###220" fileUrl="$$$/Configurator/key_###221" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="179" width="70" height="46" mouseUpIcon="Images/g4-u.png" mouseOverIcon="Images/g4-o.png" mouseDownSkinIcon="Images/g4-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###182" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###183" cfgVisible="$$$/Configurator/Attribute/visible/value###184" fileUrl="$$$/Configurator/key_###185" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="233" width="70" height="46" mouseUpIcon="Images/g5-u.png" mouseOverIcon="Images/g5-o.png" mouseDownSkinIcon="Images/g5-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###214" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###215" cfgVisible="$$$/Configurator/Attribute/visible/value###216" fileUrl="$$$/Configurator/key_###217" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="87" y="178" width="70" height="46" mouseUpIcon="Images/g9-u.png" mouseOverIcon="Images/g9-o.png" mouseDownSkinIcon="Images/g9-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###210" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###211" cfgVisible="$$$/Configurator/Attribute/visible/value###212" fileUrl="$$$/Configurator/key_###213" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="165" y="178" width="70" height="46" mouseUpIcon="Images/g10-u.png" mouseOverIcon="Images/g10-o.png" mouseDownSkinIcon="Images/g10-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###186" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###187" cfgVisible="$$$/Configurator/Attribute/visible/value###188" fileUrl="$$$/Configurator/key_###189" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="88" y="233" width="70" height="46" mouseUpIcon="Images/g6-u.png" mouseOverIcon="Images/g6-o.png" mouseDownSkinIcon="Images/g6-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###198" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###199" cfgVisible="$$$/Configurator/Attribute/visible/value###200" fileUrl="$$$/Configurator/key_###201" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="287" width="70" height="46" mouseUpIcon="Images/g8-u.png" mouseOverIcon="Images/g8-o.png" mouseDownSkinIcon="Images/g8-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###194" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###195" cfgVisible="$$$/Configurator/Attribute/visible/value###196" fileUrl="$$$/Configurator/key_###197" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="165" y="233" width="70" height="46" mouseUpIcon="Images/g7-u.png" mouseOverIcon="Images/g7-o.png" mouseDownSkinIcon="Images/g7-d.png"/>
+        <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###193" styleName="scopeTextArea" width="146" height="20" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###194" fontSize="16" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="351" fontFamily="helvetica">
+          <text><![CDATA[$$$/Configurator/key_###195]]></text>
+        </text>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###399" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###400" cfgVisible="$$$/Configurator/Attribute/visible/value###401" fileUrl="$$$/Configurator/key_###402" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="379" width="70" height="46" mouseUpIcon="Images/vt1-u.png" mouseOverIcon="Images/vt1-o.png" mouseDownSkinIcon="Images/vt1-d.png"/>
+      </canvas>
+      <canvas _itemId="container_canvas" toolTip="$$$/Configurator/Container/Canvas/desc" label="$$$/Configurator/key_###154" width="245" height="555" cfgVisible="$$$/Configurator/Attribute/visible/value###155">
+        <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###175" styleName="scopeTextArea" width="216" height="20" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###176" fontSize="16" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="377" fontFamily="helvetica">
+          <text><![CDATA[$$$/Configurator/key_###177]]></text>
+        </text>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###262" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###263" cfgVisible="$$$/Configurator/Attribute/visible/value###264" fileUrl="$$$/Configurator/key_###265" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="405" width="226" height="46" mouseUpIcon="Images/spr-u.png" mouseOverIcon="Images/spr-o.png" mouseDownSkinIcon="Images/spr-d.png"/>
+        <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###307" styleName="scopeTextArea" width="216" height="20" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###309" fontSize="16" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="470" fontFamily="helvetica">
+          <text><![CDATA[$$$/Configurator/key_###310]]></text>
+        </text>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###311" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###312" cfgVisible="$$$/Configurator/Attribute/visible/value###313" fileUrl="$$$/Configurator/key_###314" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="498" width="70" height="46" mouseUpIcon="Images/ci1-u.png" mouseOverIcon="Images/ci1-o.png" mouseDownSkinIcon="Images/ci1-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###315" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###316" cfgVisible="$$$/Configurator/Attribute/visible/value###317" fileUrl="$$$/Configurator/key_###318" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="88" y="498" width="70" height="46" mouseUpIcon="Images/ci2-u.png" mouseOverIcon="Images/ci2-o.png" mouseDownSkinIcon="Images/ci2-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###319" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###320" cfgVisible="$$$/Configurator/Attribute/visible/value###321" fileUrl="$$$/Configurator/key_###322" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="165" y="498" width="70" height="46" mouseUpIcon="Images/ci3-u.png" mouseOverIcon="Images/ci3-o.png" mouseDownSkinIcon="Images/ci3-d.png"/>
+        <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###251" styleName="scopeTextArea" width="216" height="20" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###252" fontSize="16" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="10" fontFamily="helvetica">
+          <text><![CDATA[$$$/Configurator/key_###253]]></text>
+        </text>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###254" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###255" cfgVisible="$$$/Configurator/Attribute/visible/value###256" fileUrl="$$$/Configurator/key_###257" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="165" y="38" width="70" height="46" mouseUpIcon="Images/re3-u.png" mouseOverIcon="Images/re3-o.png" mouseDownSkinIcon="Images/re3-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###258" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###259" cfgVisible="$$$/Configurator/Attribute/visible/value###261" fileUrl="$$$/Configurator/key_###262" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="88" y="38" width="70" height="46" mouseUpIcon="Images/re2-u.png" mouseOverIcon="Images/re2-o.png" mouseDownSkinIcon="Images/re2-d.png"/>
+        <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###263" styleName="scopeTextArea" width="216" height="20" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###265" fontSize="16" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="101" fontFamily="helvetica">
+          <text><![CDATA[$$$/Configurator/key_###266]]></text>
+        </text>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###267" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###268" cfgVisible="$$$/Configurator/Attribute/visible/value###269" fileUrl="$$$/Configurator/key_###270" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="88" y="129" width="70" height="46" mouseUpIcon="Images/ms2-u.png" mouseOverIcon="Images/ms2-o.png" mouseDownSkinIcon="Images/ms2-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###271" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###272" cfgVisible="$$$/Configurator/Attribute/visible/value###273" fileUrl="$$$/Configurator/key_###274" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="165" y="129" width="70" height="46" mouseUpIcon="Images/ms3-u.png" mouseOverIcon="Images/ms3-o.png" mouseDownSkinIcon="Images/ms3-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###275" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###276" cfgVisible="$$$/Configurator/Attribute/visible/value###277" fileUrl="$$$/Configurator/key_###278" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="38" width="70" height="46" mouseUpIcon="Images/re1-u.png" mouseOverIcon="Images/re1-o.png" mouseDownSkinIcon="Images/re1-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###279" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###280" cfgVisible="$$$/Configurator/Attribute/visible/value###281" fileUrl="$$$/Configurator/key_###282" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="129" width="70" height="46" mouseUpIcon="Images/ms1-u.png" mouseOverIcon="Images/ms1-o.png" mouseDownSkinIcon="Images/ms1-d.png"/>
+        <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###283" styleName="scopeTextArea" width="216" height="20" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###285" fontSize="16" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="194" fontFamily="helvetica">
+          <text><![CDATA[$$$/Configurator/key_###286]]></text>
+        </text>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###287" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###288" cfgVisible="$$$/Configurator/Attribute/visible/value###289" fileUrl="$$$/Configurator/key_###290" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="10" y="222" width="226" height="46" mouseUpIcon="Images/fe1-u.png" mouseOverIcon="Images/fe1-o.png" mouseDownSkinIcon="Images/fe1-d.png"/>
+        <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###291" styleName="scopeTextArea" width="146" height="20" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###293" fontSize="16" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="9" y="286" fontFamily="helvetica">
+          <text><![CDATA[$$$/Configurator/key_###294]]></text>
+        </text>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###295" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###296" cfgVisible="$$$/Configurator/Attribute/visible/value###297" fileUrl="$$$/Configurator/key_###298" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" mouseUpIcon="Images/ff3-u.png" mouseOverIcon="Images/ff3-o.png" mouseDownSkinIcon="Images/ff3-d.png" x="165" y="312" width="70" height="46"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###299" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###300" cfgVisible="$$$/Configurator/Attribute/visible/value###301" fileUrl="$$$/Configurator/key_###302" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="87" y="312" width="70" height="46" mouseUpIcon="Images/ff2-u.png" mouseOverIcon="Images/ff2-o.png" mouseDownSkinIcon="Images/ff2-d.png"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###303" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###304" cfgVisible="$$$/Configurator/Attribute/visible/value###305" fileUrl="$$$/Configurator/key_###306" icon="ps_script_file" iconx2="ps_script_filex2" overIcon="ps_script_file_r" showIcon="true" iconWidth="18" iconHeight="18" x="9" y="312" width="70" height="46" mouseUpIcon="Images/ff1-u.png" mouseOverIcon="Images/ff1-o.png" mouseDownSkinIcon="Images/ff1-d.png"/>
+      </canvas>
+    </tabnavigator>
+  </ConfiguratorPanel>
+  <images>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+    <image id="ps_script_file" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file"/>
+    <image id="ps_script_filex2" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_filex2"/>
+    <image id="ps_script_file_r" swf="bundles/PHSP-14/PHSP14Bundle.swf_" className="PHSP14Bundle" varName="ps_script_file_r"/>
+  </images>
+  <scripts/>
+  <elements>
+    <element id="ConfiguratorPanel" classRT="com.adobe.configurator2.component.panel.PanelRuntime">
+      <attr id="name" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="minWidth" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="minHeight" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="maxWidth" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="maxHeight" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="persistent" meta="Other" translate="y"/>
+      <attr id="extensionId" meta="Other" translate="y"/>
+      <attr id="extensionVersion" meta="Other" translate="y"/>
+      <attr id="extensionAuthor" meta="Other" translate="y"/>
+      <attr id="extensionDescription" meta="Other" translate="y"/>
+      <attr id="menuName" meta="Other" translate="y"/>
+      <attr id="init" meta="EVENT" translate="y"/>
+      <attr id="close" meta="EVENT" translate="y"/>
+      <attr id="onInit" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="aboutBox" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="flyoutMenuAbout" meta="Other" localize="y" translate="y"/>
+      <attr id="normalIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="rollOverIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="darkNormalIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+    </element>
+    <element id="tabnavigator" classRT="com.adobe.configurator2.component.TabNavigatorRuntime">
+      <attr id="label" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="toolTip" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+    </element>
+    <element id="canvas" classRT="mx.containers.Canvas">
+      <attr id="label" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="toolTip" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+    </element>
+    <element id="ps_script_file" classRT="com.adobe.configurator2.component.ScriptFileButtonRunTime">
+      <attr id="fileUrl" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="icon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="iconWidth" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="iconHeight" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="iconx2" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="label" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="toolTip" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="showIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="mouseUpIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="mouseOverIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="mouseDownSkinIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+    </element>
+    <element id="accordion" classRT="com.adobe.configurator2.component.AccordionRuntime">
+      <attr id="label" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="toolTip" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+    </element>
+    <element id="text" classRT="com.adobe.configurator2.component.TextAreaRuntime">
+      <attr id="text" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="toolTip" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="styleName" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="fontFamily" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="fontSize" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="color" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="fontWeight" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="fontStyle" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="textDecoration" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="textAlign" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="backgroundColor" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="backgroundAlpha" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="borderColor" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="borderStyle" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="borderThickness" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="dropShadowEnabled" meta="UI_STYLE" localize="y" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+    </element>
+  </elements>
+  <properties>
+    <property id="LocaleSearchPath1">${HostProductRoot}/Locales/${LocaleID}/Support Files/Panels/fsPanels.xml</property>
+    <property id="LocaleSearchPath2">${HostProductRoot}/Locales/${LocaleID}/Support Files/Panels/${PanelName}/dictionary.xml</property>
+  </properties>
+</gpc>

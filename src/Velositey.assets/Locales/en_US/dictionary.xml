@@ -1,0 +1,1716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="en_US" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/Accordion/Canvas###23" translate="yes">
+    <val>Headers</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###100" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###103" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###104" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###108" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###109" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###112" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###116" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###120" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###123" translate="yes">
+    <val>Remove Empty Layers</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###124" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###127" translate="yes">
+    <val>Remove Empty Groups</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###128" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###131" translate="yes">
+    <val>Remove Unused Layer Styles</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###132" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###136" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###137" translate="yes">
+    <val>Distribute Horizontal Spacing</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###140" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###141" translate="yes">
+    <val>Distribute Vertical Spacing</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###144" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###148" translate="yes">
+    <val>Add .svg To Layer Name</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###179" translate="yes">
+    <val>Remove All Guides</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###182" translate="yes">
+    <val>Add .JPG to Layer/Group Name</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###183" translate="yes">
+    <val>Left Side</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###186" translate="yes">
+    <val>Add .PNG to Layer/Group Name</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###187" translate="yes">
+    <val>Right Side</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###190" translate="yes">
+    <val>Add .SVG to Layer/Group Name</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###191" translate="yes">
+    <val>Left &amp; Right Sides</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###195" translate="yes">
+    <val>Top Side</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###199" translate="yes">
+    <val>Bottom Side</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###2" translate="yes">
+    <val>New Document/Template</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###203" translate="yes">
+    <val>Top &amp; Bottom Sides</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###206" translate="yes">
+    <val>Favicon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###207" translate="yes">
+    <val>All Sides</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###210" translate="yes">
+    <val>Save Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###211" translate="yes">
+    <val>Horizontal Center</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###214" translate="yes">
+    <val>Map Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###215" translate="yes">
+    <val>Vertical Center</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###219" translate="yes">
+    <val>Both Centers</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###221" translate="yes">
+    <val>Map Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###225" translate="yes">
+    <val>Measure Height</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###228" translate="yes">
+    <val>Favicon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###229" translate="yes">
+    <val>Measure Width</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###232" translate="yes">
+    <val>Save Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###233" translate="yes">
+    <val>Measure Both</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###240" translate="yes">
+    <val>Map Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###244" translate="yes">
+    <val>Favicon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###248" translate="yes">
+    <val>Save Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###255" translate="yes">
+    <val>Remove Unused Layer Styles</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###257" translate="yes">
+    <val>Tiler</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###259" translate="yes">
+    <val>Remove Empty Groups</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###263" translate="yes">
+    <val>Save Proof As JPG</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###267" translate="yes">
+    <val>Header 1</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###268" translate="yes">
+    <val>Measure Selection Width</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###271" translate="yes">
+    <val>Header 2</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###272" translate="yes">
+    <val>Measure Selection Height &amp; Width</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###275" translate="yes">
+    <val>Header 3</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###276" translate="yes">
+    <val>Remove Empty Layers</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###279" translate="yes">
+    <val>Header 4</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###280" translate="yes">
+    <val>Measure Selection Height</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###283" translate="yes">
+    <val>Header 5</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###287" translate="yes">
+    <val>Slider 1</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###288" translate="yes">
+    <val>Add Font Specifications</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###291" translate="yes">
+    <val>Slider 2</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###295" translate="yes">
+    <val>Slider 3</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###296" translate="yes">
+    <val>Add .SVG to Layer/Group Name</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###299" translate="yes">
+    <val>Slider 4</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###300" translate="yes">
+    <val>Add .PNG to Layer/Group Name</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###303" translate="yes">
+    <val>Slider 5</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###304" translate="yes">
+    <val>Add .JPG to Layer/Group Name</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###307" translate="yes">
+    <val>Content 1</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###311" translate="yes">
+    <val>Content 2</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###312" translate="yes">
+    <val>Create Map Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###315" translate="yes">
+    <val>Content 3</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###316" translate="yes">
+    <val>Create Favicon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###319" translate="yes">
+    <val>Content 4</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###32" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###320" translate="yes">
+    <val>Save Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###327" translate="yes">
+    <val>Footer 1</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###331" translate="yes">
+    <val>Footer 3</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###335" translate="yes">
+    <val>Footer 5</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###339" translate="yes">
+    <val>Footer 7</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###343" translate="yes">
+    <val>Footer 9</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###347" translate="yes">
+    <val>Footer 11</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###351" translate="yes">
+    <val>Footer 2</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###355" translate="yes">
+    <val>Footer 4</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###359" translate="yes">
+    <val>Footer 6</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###36" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###363" translate="yes">
+    <val>Footer 8</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###367" translate="yes">
+    <val>Footer 10</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###371" translate="yes">
+    <val>Font Specifications</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###383" translate="yes">
+    <val>Map Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###387" translate="yes">
+    <val>Favicon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###396" translate="yes">
+    <val>Save Icon</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###40" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###400" translate="yes">
+    <val>Change Shape Colour</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###44" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###48" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###52" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###56" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###60" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###64" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###68" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###72" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###76" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###80" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###81" translate="yes">
+    <val>Add .jpg To Layer Name</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###84" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###85" translate="yes">
+    <val>Add .png To Layer Name</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###88" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###92" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###96" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###1" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###102" translate="yes">
+    <val>Check Sizing</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###103" translate="yes">
+    <val>Footer 1</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###107" translate="yes">
+    <val>Footer 2</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###108" translate="yes">
+    <val>Font Count</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###111" translate="yes">
+    <val>Footer 3</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###115" translate="yes">
+    <val>Footer 4</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###119" translate="yes">
+    <val>Footer 5</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###122" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###123" translate="yes">
+    <val>Footer 6</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###126" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###127" translate="yes">
+    <val>Footer 7</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###130" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###131" translate="yes">
+    <val>Footer 8</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###135" translate="yes">
+    <val>Footer 9</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###136" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###139" translate="yes">
+    <val>Footer 10</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###140" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###143" translate="yes">
+    <val>Footer 11</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###147" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###178" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###181" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###182" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###185" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###186" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###189" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###190" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###194" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###198" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###202" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###205" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###206" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###209" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###210" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###213" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###214" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###218" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###220" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###224" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###227" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###228" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###231" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###232" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###239" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###243" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###247" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###254" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###256" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###258" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###262" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###266" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###267" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###270" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###271" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###274" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###275" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###278" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###279" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###282" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###286" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###287" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###290" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###294" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###295" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###298" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###299" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###302" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###303" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###306" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###31" translate="yes">
+    <val>Header 1</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###310" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###311" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###314" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###315" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###318" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###319" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###326" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###330" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###334" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###338" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###342" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###346" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###35" translate="yes">
+    <val>Header 2</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###350" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###354" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###358" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###362" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###366" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###370" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###382" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###386" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###39" translate="yes">
+    <val>Header 3</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###395" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###399" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###43" translate="yes">
+    <val>Header 4</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###47" translate="yes">
+    <val>Header 5</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###51" translate="yes">
+    <val>Script File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###55" translate="yes">
+    <val>Slider 1</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###59" translate="yes">
+    <val>Slider 2</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###63" translate="yes">
+    <val>Slider 3</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###67" translate="yes">
+    <val>Slider 4</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###71" translate="yes">
+    <val>Slider 5</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###75" translate="yes">
+    <val>Script File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###79" translate="yes">
+    <val>Script File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###80" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###83" translate="yes">
+    <val>Script File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###84" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###87" translate="yes">
+    <val>Content 1</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###91" translate="yes">
+    <val>Content 2</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###95" translate="yes">
+    <val>Content 3</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###99" translate="yes">
+    <val>Content 4</val>
+  </str>
+  <str name="Configurator/Attribute/showNavBar/value###199" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###101" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###104" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###105" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###106" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###109" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###11" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###110" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###113" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###117" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###120" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###121" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###124" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###125" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###128" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###129" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###132" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###133" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###134" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###137" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###138" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###14" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###141" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###142" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###145" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###149" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###152" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###155" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###157" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###16" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###161" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###164" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###167" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###170" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###173" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###176" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###179" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###18" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###180" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###183" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###184" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###187" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###188" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###191" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###192" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###194" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###196" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###197" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###20" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###200" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###203" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###204" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###207" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###208" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###211" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###212" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###215" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###216" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###218" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###22" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###220" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###222" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###225" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###226" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###229" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###230" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###233" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###234" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###236" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###237" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###24" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###241" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###245" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###249" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###252" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###256" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###258" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###26" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###260" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###261" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###264" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###265" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###268" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###269" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###272" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###273" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###276" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###277" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###28" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###280" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###281" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###284" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###285" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###288" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###289" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###292" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###293" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###296" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###297" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###3" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###30" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###300" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###301" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###304" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###305" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###308" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###309" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###312" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###313" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###316" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###317" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###320" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###321" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###328" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###33" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###332" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###336" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###340" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###344" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###348" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###352" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###356" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###360" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###364" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###368" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###37" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###372" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###374" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###384" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###388" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###390" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###397" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###401" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###41" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###45" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###49" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###53" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###57" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###6" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###61" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###65" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###69" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###73" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###77" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###81" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###82" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###85" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###86" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###89" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###9" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###93" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###97" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Container/Accordion/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/Canvas/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/TabNavigator/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/TabNavigator/dropListLabel###12" translate="yes">
+    <val>Select a page:</val>
+  </str>
+  <str name="Configurator/Container/TabNavigator/dropListLabel###7" translate="yes">
+    <val>Select a page:</val>
+  </str>
+  <str name="Configurator/FlyoutMenu/about" translate="yes">
+    <val>About</val>
+  </str>
+  <str name="Configurator/key_###10" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###102" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###105" translate="yes">
+    <val>Scripts/UnderThirteen.jsx</val>
+  </str>
+  <str name="Configurator/key_###106" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###107" translate="yes">
+    <val><![CDATA[TYPE CHECKS]]></val>
+  </str>
+  <str name="Configurator/key_###110" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###111" translate="yes">
+    <val>Scripts/Font List.jsx</val>
+  </str>
+  <str name="Configurator/key_###114" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###118" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###121" translate="yes">
+    <val>REMOVE EMPTY/UNUSED</val>
+  </str>
+  <str name="Configurator/key_###122" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###125" translate="yes">
+    <val>Scripts/Delete All Empty Layers.jsx</val>
+  </str>
+  <str name="Configurator/key_###126" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###129" translate="yes">
+    <val>Scripts/Remove All Empty Groups.jsx</val>
+  </str>
+  <str name="Configurator/key_###130" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###133" translate="yes">
+    <val>Scripts/Remove All Unused Layer Styles.jsx</val>
+  </str>
+  <str name="Configurator/key_###134" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###135" translate="yes">
+    <val>Spacing &amp; Tiling</val>
+  </str>
+  <str name="Configurator/key_###138" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###139" translate="yes">
+    <val>Scripts/Distribute Horizontal.jsx</val>
+  </str>
+  <str name="Configurator/key_###142" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###143" translate="yes">
+    <val>Scripts/Distribute Vertical.jsx</val>
+  </str>
+  <str name="Configurator/key_###146" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###15" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###150" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###153" translate="yes">
+    <val>GUIDES</val>
+  </str>
+  <str name="Configurator/key_###154" translate="yes">
+    <val>Tools</val>
+  </str>
+  <str name="Configurator/key_###156" translate="yes">
+    <val>Icons</val>
+  </str>
+  <str name="Configurator/key_###162" translate="yes">
+    <val>Guides</val>
+  </str>
+  <str name="Configurator/key_###165" translate="yes">
+    <val><![CDATA[Renaming]]></val>
+  </str>
+  <str name="Configurator/key_###168" translate="yes">
+    <val>Remove Extras</val>
+  </str>
+  <str name="Configurator/key_###171" translate="yes">
+    <val>Measure Selection</val>
+  </str>
+  <str name="Configurator/key_###174" translate="yes">
+    <val>Font Specifications</val>
+  </str>
+  <str name="Configurator/key_###177" translate="yes">
+    <val>Save Preview</val>
+  </str>
+  <str name="Configurator/key_###180" translate="yes">
+    <val><![CDATA[Renaming]]></val>
+  </str>
+  <str name="Configurator/key_###181" translate="yes">
+    <val>Scripts/ClearGuides.jsx</val>
+  </str>
+  <str name="Configurator/key_###184" translate="yes">
+    <val>Scripts/Add .JPG.jsx</val>
+  </str>
+  <str name="Configurator/key_###185" translate="yes">
+    <val>Scripts/Guide-Left.jsx</val>
+  </str>
+  <str name="Configurator/key_###188" translate="yes">
+    <val>Scripts/Add .PNG.jsx</val>
+  </str>
+  <str name="Configurator/key_###189" translate="yes">
+    <val>Scripts/Guide-Right.jsx</val>
+  </str>
+  <str name="Configurator/key_###19" translate="yes">
+    <val>Style</val>
+  </str>
+  <str name="Configurator/key_###192" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###193" translate="yes">
+    <val>Scripts/Guide-LeftRight.jsx</val>
+  </str>
+  <str name="Configurator/key_###195" translate="yes">
+    <val>Vector Tools</val>
+  </str>
+  <str name="Configurator/key_###197" translate="yes">
+    <val>Scripts/Guide-Top.jsx</val>
+  </str>
+  <str name="Configurator/key_###198" translate="yes">
+    <val>Create Icons</val>
+  </str>
+  <str name="Configurator/key_###200" translate="yes">
+    <val>http://www.stockvault.net</val>
+  </str>
+  <str name="Configurator/key_###201" translate="yes">
+    <val>Scripts/Guide-Bottom.jsx</val>
+  </str>
+  <str name="Configurator/key_###202" translate="yes">
+    <val>http://www.stockvault.net</val>
+  </str>
+  <str name="Configurator/key_###204" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###205" translate="yes">
+    <val>Scripts/Guide-TopBottom.jsx</val>
+  </str>
+  <str name="Configurator/key_###208" translate="yes">
+    <val>Scripts/favicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###209" translate="yes">
+    <val>Scripts/Guide-AllSides.jsx</val>
+  </str>
+  <str name="Configurator/key_###21" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###212" translate="yes">
+    <val>Scripts/saveIcon.jsx</val>
+  </str>
+  <str name="Configurator/key_###213" translate="yes">
+    <val>Scripts/Guide-HCenter.jsx</val>
+  </str>
+  <str name="Configurator/key_###216" translate="yes">
+    <val>Scripts/mapicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###217" translate="yes">
+    <val>Scripts/Guide-VCenter.jsx</val>
+  </str>
+  <str name="Configurator/key_###219" translate="yes">
+    <val>Create Icons</val>
+  </str>
+  <str name="Configurator/key_###221" translate="yes">
+    <val>Scripts/Guide-AllCenter.jsx</val>
+  </str>
+  <str name="Configurator/key_###223" translate="yes">
+    <val>Scripts/mapicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###226" translate="yes">
+    <val>Create Icons</val>
+  </str>
+  <str name="Configurator/key_###227" translate="yes">
+    <val>Scripts/MeasureHeight.jsx</val>
+  </str>
+  <str name="Configurator/key_###230" translate="yes">
+    <val>Scripts/favicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###231" translate="yes">
+    <val>Scripts/MeasureWidth.jsx</val>
+  </str>
+  <str name="Configurator/key_###234" translate="yes">
+    <val>Scripts/saveIcon.jsx</val>
+  </str>
+  <str name="Configurator/key_###235" translate="yes">
+    <val>Scripts/MeasureBoth.jsx</val>
+  </str>
+  <str name="Configurator/key_###237" translate="yes">
+    <val>MEASURE SELECTION</val>
+  </str>
+  <str name="Configurator/key_###238" translate="yes">
+    <val>Create Icons</val>
+  </str>
+  <str name="Configurator/key_###242" translate="yes">
+    <val>Scripts/mapicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###246" translate="yes">
+    <val>Scripts/favicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###25" translate="yes">
+    <val>Sliders</val>
+  </str>
+  <str name="Configurator/key_###250" translate="yes">
+    <val>Scripts/saveIcon.jsx</val>
+  </str>
+  <str name="Configurator/key_###253" translate="yes">
+    <val>Remove Extras</val>
+  </str>
+  <str name="Configurator/key_###257" translate="yes">
+    <val>Scripts/Remove All Unused Layer Styles.jsx</val>
+  </str>
+  <str name="Configurator/key_###259" translate="yes">
+    <val>Scripts/Array Generator 1-0-0.jsx</val>
+  </str>
+  <str name="Configurator/key_###261" translate="yes">
+    <val>FINAL</val>
+  </str>
+  <str name="Configurator/key_###262" translate="yes">
+    <val>Scripts/Remove All Empty Groups.jsx</val>
+  </str>
+  <str name="Configurator/key_###265" translate="yes">
+    <val>Scripts/SaveJPG.jsx</val>
+  </str>
+  <str name="Configurator/key_###266" translate="yes">
+    <val>Measure Selection</val>
+  </str>
+  <str name="Configurator/key_###269" translate="yes">
+    <val>Scripts/Header-1.jsx</val>
+  </str>
+  <str name="Configurator/key_###27" translate="yes">
+    <val>Content</val>
+  </str>
+  <str name="Configurator/key_###270" translate="yes">
+    <val>Scripts/MeasureWidth.jsx</val>
+  </str>
+  <str name="Configurator/key_###273" translate="yes">
+    <val>Scripts/Header-2.jsx</val>
+  </str>
+  <str name="Configurator/key_###274" translate="yes">
+    <val>Scripts/MeasureBoth.jsx</val>
+  </str>
+  <str name="Configurator/key_###277" translate="yes">
+    <val>Scripts/Header-3.jsx</val>
+  </str>
+  <str name="Configurator/key_###278" translate="yes">
+    <val>Scripts/Delete All Empty Layers.jsx</val>
+  </str>
+  <str name="Configurator/key_###281" translate="yes">
+    <val>Scripts/Header-4.jsx</val>
+  </str>
+  <str name="Configurator/key_###282" translate="yes">
+    <val>Scripts/MeasureHeight.jsx</val>
+  </str>
+  <str name="Configurator/key_###285" translate="yes">
+    <val>Scripts/Header-5.jsx</val>
+  </str>
+  <str name="Configurator/key_###286" translate="yes">
+    <val>Font Specifications</val>
+  </str>
+  <str name="Configurator/key_###289" translate="yes">
+    <val>Scripts/Slider-1.jsx</val>
+  </str>
+  <str name="Configurator/key_###29" translate="yes">
+    <val>Footers</val>
+  </str>
+  <str name="Configurator/key_###290" translate="yes">
+    <val>Scripts/FontInfo.jsx</val>
+  </str>
+  <str name="Configurator/key_###293" translate="yes">
+    <val>Scripts/Slider-2.jsx</val>
+  </str>
+  <str name="Configurator/key_###294" translate="yes">
+    <val><![CDATA[Renaming]]></val>
+  </str>
+  <str name="Configurator/key_###297" translate="yes">
+    <val>Scripts/Slider-3.jsx</val>
+  </str>
+  <str name="Configurator/key_###298" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###301" translate="yes">
+    <val>Scripts/Slider-4.jsx</val>
+  </str>
+  <str name="Configurator/key_###302" translate="yes">
+    <val>Scripts/Add .PNG.jsx</val>
+  </str>
+  <str name="Configurator/key_###305" translate="yes">
+    <val>Scripts/Slider-5.jsx</val>
+  </str>
+  <str name="Configurator/key_###306" translate="yes">
+    <val>Scripts/Add .JPG.jsx</val>
+  </str>
+  <str name="Configurator/key_###309" translate="yes">
+    <val>Scripts/Content-1.jsx</val>
+  </str>
+  <str name="Configurator/key_###310" translate="yes">
+    <val>Create Icons</val>
+  </str>
+  <str name="Configurator/key_###313" translate="yes">
+    <val>Scripts/Content-2.jsx</val>
+  </str>
+  <str name="Configurator/key_###314" translate="yes">
+    <val>Scripts/mapicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###317" translate="yes">
+    <val>Scripts/Content-3.jsx</val>
+  </str>
+  <str name="Configurator/key_###318" translate="yes">
+    <val>Scripts/favicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###321" translate="yes">
+    <val>Scripts/Content-4.jsx</val>
+  </str>
+  <str name="Configurator/key_###322" translate="yes">
+    <val>Scripts/saveIcon.jsx</val>
+  </str>
+  <str name="Configurator/key_###329" translate="yes">
+    <val>Scripts/Footer-1.jsx</val>
+  </str>
+  <str name="Configurator/key_###333" translate="yes">
+    <val>Scripts/Footer-3.jsx</val>
+  </str>
+  <str name="Configurator/key_###337" translate="yes">
+    <val>Scripts/Footer-5.jsx</val>
+  </str>
+  <str name="Configurator/key_###34" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###341" translate="yes">
+    <val>Scripts/Footer-7.jsx</val>
+  </str>
+  <str name="Configurator/key_###345" translate="yes">
+    <val>Scripts/Footer-9.jsx</val>
+  </str>
+  <str name="Configurator/key_###349" translate="yes">
+    <val>Scripts/Footer-11.jsx</val>
+  </str>
+  <str name="Configurator/key_###353" translate="yes">
+    <val>Scripts/Footer-2.jsx</val>
+  </str>
+  <str name="Configurator/key_###357" translate="yes">
+    <val>Scripts/Footer-4.jsx</val>
+  </str>
+  <str name="Configurator/key_###361" translate="yes">
+    <val>Scripts/Footer-6.jsx</val>
+  </str>
+  <str name="Configurator/key_###365" translate="yes">
+    <val>Scripts/Footer-8.jsx</val>
+  </str>
+  <str name="Configurator/key_###369" translate="yes">
+    <val>Scripts/Footer-10.jsx</val>
+  </str>
+  <str name="Configurator/key_###373" translate="yes">
+    <val>Scripts/FontInfo.jsx</val>
+  </str>
+  <str name="Configurator/key_###375" translate="yes">
+    <val>FONT INFO</val>
+  </str>
+  <str name="Configurator/key_###38" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###385" translate="yes">
+    <val>Scripts/mapicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###389" translate="yes">
+    <val>Scripts/favicon.jsx</val>
+  </str>
+  <str name="Configurator/key_###391" translate="yes">
+    <val><![CDATA[CREATE NEW]]></val>
+  </str>
+  <str name="Configurator/key_###398" translate="yes">
+    <val>Scripts/saveIcon.jsx</val>
+  </str>
+  <str name="Configurator/key_###4" translate="yes">
+    <val>Scripts/newTemplate.jsx</val>
+  </str>
+  <str name="Configurator/key_###402" translate="yes">
+    <val>Scripts/ChangeShapeLayerColour.jsx</val>
+  </str>
+  <str name="Configurator/key_###42" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###46" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###5" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###50" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###54" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###58" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###62" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###66" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###70" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###74" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###78" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###82" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###83" translate="yes">
+    <val>Scripts/Add .JPG.jsx</val>
+  </str>
+  <str name="Configurator/key_###86" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###87" translate="yes">
+    <val>Scripts/Add .PNG.jsx</val>
+  </str>
+  <str name="Configurator/key_###90" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###94" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###98" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/TabNavigator/Canvas###13" translate="yes">
+    <val>Tab 1</val>
+  </str>
+  <str name="Configurator/TabNavigator/Canvas###17" translate="yes">
+    <val>Layout</val>
+  </str>
+  <str name="Configurator/TabNavigator/Canvas###8" translate="yes">
+    <val>Tab 1</val>
+  </str>
+  <str name="Configurator/watermark/htmlText" translate="yes">
+    <val>&lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Created with Configurator&lt;/a&gt;</val>
+  </str>
+  <str name="Configurator/watermark/width" translate="yes">
+    <val>125</val>
+  </str>
+  <str name="Configurator/watermark/x" translate="yes">
+    <val>123</val>
+  </str>
+  <str name="Configurator/Widget/HTML/backwardToolTip" translate="yes">
+    <val>Go back to previous page</val>
+  </str>
+  <str name="Configurator/Widget/HTML/browseListToolTip" translate="yes">
+    <val>Show the history list</val>
+  </str>
+  <str name="Configurator/Widget/HTML/desc" translate="yes">
+    <val>HTML</val>
+  </str>
+  <str name="Configurator/Widget/HTML/escCloseText" translate="yes">
+    <val>Esc key to close</val>
+  </str>
+  <str name="Configurator/Widget/HTML/forwardToolTip" translate="yes">
+    <val>Go forward to next page</val>
+  </str>
+  <str name="Configurator/Widget/HTML/homeText" translate="yes">
+    <val>Home</val>
+  </str>
+  <str name="Configurator/Widget/HTML/loadingText" translate="yes">
+    <val>Connecting...</val>
+  </str>
+  <str name="Configurator/Widget/HTML/locationTextToolTip" translate="yes">
+    <val>Input a URL and click enter to go to that URL</val>
+  </str>
+  <str name="Configurator/Widget/HTML/netUnAvailablePromptDetail" translate="yes">
+    <val>To continue ensure that you are connected to the Internet and that your preferences allow services to connect to the Internet, and ensure that the requested URL {0} is available.</val>
+  </str>
+  <str name="Configurator/Widget/HTML/netUnAvailablePromptTitle" translate="yes">
+    <val>No Internet connection detected, or the requested address could not be found.</val>
+  </str>
+  <str name="Configurator/Widget/HTML/offlinePromptDetail" translate="yes">
+    <val>To continue ensure that you are connected to the Internet and that your preferences allow services to connect to the Internet.</val>
+  </str>
+  <str name="Configurator/Widget/HTML/offlinePromptTitle" translate="yes">
+    <val>No Internet Connection Detected</val>
+  </str>
+  <str name="Configurator/Widget/HTML/reloadLabel" translate="yes">
+    <val>Reload</val>
+  </str>
+  <str name="Configurator/Widget/HTML/reloadText" translate="yes">
+    <val>Click to test connection</val>
+  </str>
+  <str name="Configurator/Widget/Text/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###151" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###158" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###159" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###160" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###163" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###166" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###169" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###172" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###175" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###178" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###193" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###196" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###217" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###224" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###235" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###251" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###263" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###283" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###291" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###307" translate="yes">
+    <val/>
+  </str>
+</asf>
