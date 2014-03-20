@@ -25,3 +25,7 @@ Attribution
 
 * [WebIconSet.com](http://www.webiconset.com)
 	1. Map Icons
+
+Known Bugs/Issues
+----------
+* Hitting 'Save Icon' button and then closing without saving when Favicons or Mapicons aren't open will close your current active document without warning 
