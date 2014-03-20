@@ -32,6 +32,6 @@ Disclaimer
 ----------
 To get the save JPG to work, you must have saved your PSD in a certain folder structure. Look at the "Proofs" folder for more details on how to structure this folder. This is the case due to internal reasons within our workflow.
 
-Please Note
+License
 ----------
 This addon is completely Open Source under The MIT License (See [LICENSE.md](https://github.com/kieranpblack/velositey/blob/master/LICENSE.md) above), but we would really appreciate attribution if anyone decides to modify the code and release it. We would love to see what people come up with!	
