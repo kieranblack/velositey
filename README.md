@@ -1,7 +1,7 @@
 Velositey
 =========
 
-Photoshop panel containing scripts (.jsx) to quickly create websites.
+Photoshop panel made in Adobe Configurator 4 containing scripts (.jsx) to quickly create websites.
 
 Download the latest version: https://github.com/kieranpblack/velositey/releases
 
