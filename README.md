@@ -3,6 +3,8 @@ Velositey
 
 Photoshop panel made in Adobe Configurator 4 containing scripts (.jsx) to quickly create websites.
 
+**Website: http://wwww.dandkagency.com/velositey**
+
 **Download the latest version: https://github.com/kieranpblack/velositey/releases**
 
 Installation
