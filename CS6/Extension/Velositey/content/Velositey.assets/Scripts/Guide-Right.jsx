@@ -1,0 +1,1 @@
+﻿#include AddGuide.jsxvar activeLay = activeDocument.activeLayer;var guideVerticalArray = new Array(activeLay.bounds[2]);createVerticalGuides();

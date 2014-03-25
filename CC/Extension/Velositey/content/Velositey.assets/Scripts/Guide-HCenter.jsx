@@ -1,0 +1,1 @@
+﻿#include AddGuide.jsxvar activeLay = activeDocument.activeLayer;var horizontalCenterGuide = ((activeLay.bounds[3]-activeLay.bounds[1])/2) + activeLay.bounds[1];var guideHorizontalArray = new Array(horizontalCenterGuide);createHorizontalGuides();

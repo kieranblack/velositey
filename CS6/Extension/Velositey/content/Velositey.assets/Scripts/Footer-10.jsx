@@ -1,0 +1,1 @@
+﻿#include main.jsxvar elementName = "Footer";var elementIndex = 10;var newFile = File(app.path + "/Plug-ins/Panels/Velositey/content/Velositey.assets/Templates/footer.psd");main();

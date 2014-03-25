@@ -1,6 +1,9 @@
 Velositey
 =========
 
+Website: http://www.dandkagency.com/velositey
+Github: https://github.com/kieranpblack/velositey
+
 Photoshop panel containing scripts (.jsx) to quickly create websites.
 
 
@@ -29,3 +32,7 @@ Known Bugs/Issues
 * Save preview as JPG button does not overwrite older JPG's in some instances
 
 Disclaimer: To get the save JPG to work, you must have saved your PSD in a certain folder structure. Look at the "Proofs" folder for more details on how to structure this folder. This is the case due to internal reasons within our workflow.
+
+Feedback
+----------
+We would love your feedback! dan@dandkagency.com
