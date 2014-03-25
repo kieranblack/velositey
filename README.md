@@ -40,8 +40,8 @@ Disclaimer: To get the save JPG to work, you must have saved your PSD in a certa
 
 Feedback
 ----------
-We would love your feedback! dan@dandkagency.com
-=======
+**We would love your feedback! dan@dandkagency.com**
+
 Disclaimer
 ----------
 To get the save JPG to work, you must have saved your PSD in a certain folder structure. Look at the "Proofs" folder for more details on how to structure this folder. This is the case due to internal reasons within our workflow.
