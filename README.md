@@ -1,11 +1,16 @@
 Velositey
 =========
 
-Website: http://www.dandkagency.com/velositey
-Github: https://github.com/kieranpblack/velositey
+**Website: http://www.dandkagency.com/velositey**
+**Github: https://github.com/kieranpblack/velositey**
 
 Photoshop panel containing scripts (.jsx) to quickly create websites.
 
+Installation
+----------
+1. Place 'Velositey' folder in 'Adobe Photoshop CC/Plug-ins/Panels'
+2. Launch Photoshop CC
+3. In Photoshop, go to 'Window > Extensions > Velositey'
 
 Attribution
 ----------
@@ -36,3 +41,11 @@ Disclaimer: To get the save JPG to work, you must have saved your PSD in a certa
 Feedback
 ----------
 We would love your feedback! dan@dandkagency.com
+=======
+Disclaimer
+----------
+To get the save JPG to work, you must have saved your PSD in a certain folder structure. Look at the "Proofs" folder for more details on how to structure this folder. This is the case due to internal reasons within our workflow.
+
+License
+----------
+This addon is completely Open Source under The MIT License (See [LICENSE.md](https://github.com/kieranpblack/velositey/blob/master/LICENSE.md) above), but we would really appreciate attribution if anyone decides to modify the code and release it. We would love to see what people come up with!
