@@ -30,6 +30,8 @@ Attribution
 	3. Distribute Layer Spacing Vertical
 * [WebIconSet.com](http://www.webiconset.com)
 	1. Map Icons
+* [Sean Dalton](http://www.seandalton.com.au/)
+* [Scott MacKenzie](http://scottjamesmackenzie.com/)
 
 Known Bugs/Issues
 ----------
