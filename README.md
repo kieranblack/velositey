@@ -12,7 +12,6 @@ Download the latest version: http://www.dandkagency.com/velositey
 **Github: https://github.com/kieranpblack/velositey**
 
 Photoshop panel containing scripts (.jsx) to quickly create websites.
->>>>>>> FETCH_HEAD
 
 Installation
 ----------
