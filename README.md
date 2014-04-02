@@ -7,41 +7,46 @@ Download the latest version: http://www.dandkagency.com/velositey
 
 Installation
 ----------
-#Place 'Velositey' folder in 'Adobe Photoshop CS6/Plug-ins/Panels' or 'Adobe Photoshop CC/Plug-ins/Panels'
-#Launch Photoshop CC
-#In Photoshop, go to 'Window > Extensions > Velositey'
+1. Place 'Velositey' folder in 'Adobe Photoshop CS6/Plug-ins/Panels' or 'Adobe Photoshop CC/Plug-ins/Panels'
+2. Launch Photoshop CC
+3. In Photoshop, go to 'Window > Extensions > Velositey'
 
 Please note: Make sure the folder you copy to your “Panels” folder is named “Velositey” NOT “Velositey_XX_v1.1” or it will not work
 
 Tools Instructions
 ----------
-*Measure Height:*
-#Select an area with the Marquee (M) tool
-#Hit the "Measure Height" button
+**Measure Height:**
+
+1. Select an area with the Marquee (M) tool
+2. Hit the "Measure Height" button
 
 Velositey will measure the height of the selection and publish it onto the document in the "Dimensions" layer set.
 
-*Measure Width:*
-#Select an area with the Marquee (M) tool
-#Hit the "Measure Width" button
+**Measure Width:**
+
+1. Select an area with the Marquee (M) tool
+2. Hit the "Measure Width" button
 
 Velositey will measure the width of the selection and publish it onto the document in the "Dimensions" layer set.
 
-*Measure Both:*
-#Select an area with the Marquee (M) tool
-#Hit the "Measure Height & Width" button
+**Measure Both:**
+
+1. Select an area with the Marquee (M) tool
+2. Hit the "Measure Height & Width" button
 
 Velositey will measure both the height and width of the selection and publish them onto the document in the "Dimensions" layer set. 
 
-*Type Specifications:*
-#Select a type layer
-#Hit the "Font Specifications" tool
+**Type Specifications:**
+
+1. Select a type layer
+2. Hit the "Font Specifications" tool
 
 Velositey will now mark the layer with a number and publish the font family, weight, colour and size in a box on the far left of the document.  
 
-*JPG & PNG buttons (Exporting with CC only):*
-#Select a layer or layer set
-#Hit the "JPG" or "PNG" button
+**JPG & PNG buttons (Exporting with CC only):**
+
+1. Select a layer or layer set
+2. Hit the "JPG" or "PNG" button
 
 Velositey will now assign ".jpg80%" or ".png" to the end of the layer name (requires Generate > Image Assets to be turned on before or afterwards to export images).
 
