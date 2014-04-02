@@ -1,1 +1,0 @@
-﻿#include AddGuide.jsxvar activeLay = activeDocument.activeLayer;var guideHorizontalArray = new Array(activeLay.bounds[3]);createHorizontalGuides();
