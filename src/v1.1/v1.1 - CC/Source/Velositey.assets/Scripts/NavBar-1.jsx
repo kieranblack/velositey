@@ -1,0 +1,1 @@
+﻿#include main.jsxvar elementName = "NavBar";var elementIndex = 1;var newFile = File(app.path + "/Plug-ins/Panels/Velositey/content/Velositey.assets/Templates/navbar.psd");main();
