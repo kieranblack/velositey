@@ -1,7 +1,6 @@
 Velositey v1.1
 =========
 
-<<<<<<< HEAD
 Website: http://www.dandkagency.com/velositey
 Github: https://github.com/kieranpblack/velositey
 
@@ -93,7 +92,6 @@ Attribution
 * [Sean Dalton](http://www.seandalton.com.au/)
 * [Scott MacKenzie](http://scottjamesmackenzie.com/)
 
-<<<<<<< HEAD
 Feedback
 =======
 Known Bugs/Issues
@@ -108,15 +106,12 @@ Feedback
 **We would love your feedback! dan@dandkagency.com**
 
 Disclaimer
->>>>>>> FETCH_HEAD
 ----------
 We would love your feedback! dan@dandkagency.com
 
-<<<<<<< HEAD
 By D&K
 http://www.dandkagency.com
 =======
 License
 ----------
 This addon is completely Open Source under The MIT License (See [LICENSE.md](https://github.com/kieranpblack/velositey/blob/master/LICENSE.md) above), but we would really appreciate attribution if anyone decides to modify the code and release it. We would love to see what people come up with!
->>>>>>> FETCH_HEAD
